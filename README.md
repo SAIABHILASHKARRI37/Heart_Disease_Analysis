@@ -33,7 +33,7 @@ The objective of this project is to analyze key medical and behavioral factors c
 ---
 ##DashBoard
 <a href="https://github.com/SAIABHILASHKARRI37/Heart_Disease_Analysis/blob/main/heart_attack_youngsters_india.csv">DashBoard</a>
-https://github.com/SAIABHILASHKARRI37/Heart_Disease_Analysis/blob/main/Screenshot%202025-01-24%20090222.png
+< a href="https://github.com/SAIABHILASHKARRI37/Heart_Disease_Analysis/blob/main/Screenshot%202025-01-24%20090222.png"></a>
 
 ---
 
