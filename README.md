@@ -31,6 +31,10 @@ The objective of this project is to analyze key medical and behavioral factors c
 5. **Demographics and Risk**: Young individuals with a family history of heart disease and high-risk behaviors (e.g., smoking and drinking) are more prone to developing heart conditions.  
 
 ---
+##DashBoard
+<a href="https://github.com/SAIABHILASHKARRI37/Heart_Disease_Analysis/blob/main/heart_attack_youngsters_india.csv">DashBoard</a>
+
+---
 
 ## Conclusion  
 This project highlights the complex interplay between medical and behavioral factors contributing to heart diseases among youth. By identifying key risk factors like high cholesterol, triglycerides, and unhealthy lifestyle choices, this analysis provides actionable insights for preventive healthcare strategies. It also emphasizes the importance of promoting physical activity and stress management among young populations to mitigate heart-related risks.  
